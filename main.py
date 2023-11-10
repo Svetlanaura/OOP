@@ -19,7 +19,7 @@ with open(path) as Text_file:
 
 
 #  Задание 2
-# noinspection PyUnreachableCode
+
 def cook_list(dishes, person_count):
     cook_list = {}
     for _dish in dishes:
